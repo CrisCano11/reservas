@@ -1,0 +1,8 @@
+.txt-center{
+    margin-left: calc(80% / 2);
+    font-size: 1.5rem;
+}
+
+.calendar{
+    height: 35rem;
+}
